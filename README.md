@@ -155,5 +155,3 @@ CMD ["nginx", "-g", "daemon off;"]
 ```dockerfile
 ENV API_URL=https://api.example.com
 ```
-
-Would you like me to elaborate on any specific aspect of Docker deployment for your HTML site?
